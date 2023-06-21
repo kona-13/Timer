@@ -6,3 +6,6 @@ This was made with credit going mostly to udacity - I have just done some slight
 uses case.
 
 Feel free to use and modify if you come across this.
+
+Timer v1.0 - Plays winsound when timer is done.
+Timer v1.1 - Plays ringtone.wav when done.
